@@ -13,4 +13,9 @@ public class MyController {
     {
         return Arrays.asList(new User[]{new User("Anuj","Gupta"),new User("Sumeet","Rana")});
     }
+    @GetMapping("/list")
+    public List<User> myList()
+    {
+        return Arrays.asList(new User[]{new User("Anuj","Gupta"),new User("Sumeet","Rana")});
+    }
 }
