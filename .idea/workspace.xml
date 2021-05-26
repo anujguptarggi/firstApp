@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dea65b6d-2c85-4847-82a6-afb83de8c52f" name="Default Changelist" comment="add some files">
+    <list default="true" id="dea65b6d-2c85-4847-82a6-afb83de8c52f" name="Default Changelist" comment="final change">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -143,7 +144,14 @@
       <option name="project" value="LOCAL" />
       <updated>1622021525826</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="final change">
+      <created>1622021950024</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1622021950024</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -165,6 +173,7 @@
     <MESSAGE value="rename endpoint" />
     <MESSAGE value="add Dockerfile" />
     <MESSAGE value="add some files" />
-    <option name="LAST_COMMIT_MESSAGE" value="add some files" />
+    <MESSAGE value="final change" />
+    <option name="LAST_COMMIT_MESSAGE" value="final change" />
   </component>
 </project>
