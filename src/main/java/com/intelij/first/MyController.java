@@ -11,7 +11,7 @@ public class MyController {
     @GetMapping("/")
     public List<User> home()
     {
-        return Arrays.asList(new User[]{new User("Anuj","Gupta"),new User("Sumeet","Rana")});
+        return Arrays.asList(new User[]{new User("Anuj","Gupta1"),new User("Sumeet","Rana")});
     }
     @GetMapping("/mlist")
     public List<User> myList()
